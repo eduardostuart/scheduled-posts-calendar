@@ -4,14 +4,14 @@
   Plugin Name: Scheduled Post Calendar
   Plugin URI: http://eduardostuart.com.br/scheduled-post-calendar
   Description: Show a calendar with scheduled posts (wp-admin)
-  Version: 2.4.1
+  Version: 2.4.3
   Author: Eduardo Stuart
   Author URI: http://eduardostuart.com.br
   License: GPLv2 or later
   License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */
 
-define('SCHEDULED_POST_CALENDAR_VERSION', '2.4.1');
+define('SCHEDULED_POST_CALENDAR_VERSION', '2.4.3');
 define('SCHEDULED_POST_CALENDAR_PLUGIN_URL', plugin_dir_url(__FILE__));
 define('SCHEDULED_POST_CALENDAR_LANG', 'scheduled-posts-calendar');
 define('SCHEDULED_DIR', dirname(__FILE__) . '/');

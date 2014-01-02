@@ -1,18 +1,21 @@
 === Scheduled Posts Calendar ===
-Tags: scheduled,schedule,future posts,calendar,admin,metabox,posts metabox
+Tags: scheduled,schedule,future posts,calendar,admin,metabox,posts metabox,shortcode
 Requires at least: 3.2
 Tested up to: 3.4
-Stable tag: 2.4.1
+Stable tag: 2.4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Show a calendar with scheduled posts
+Show a calendar with scheduled posts.
 
 == Description ==
 
-[PHP5 is required since version 2.70]
 
 This plugin shows a Calendar (on admin area) with scheduled posts. 
+
+= Supporting future development =
+
+If you like the WPInstagram Images Widget plugin, please rate and review it here in the WordPress Plugin Directory, support it with your [donation](http://goo.gl/Kdkpag "donation") . Thank you!
 
 
 == Installation ==
